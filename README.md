@@ -2,7 +2,7 @@
 
 Solutions to both rounds of the Hack4Hack 2026 ML Challenge, two astronomy classification problems ranked by **Macro F1**.
 
-**Team LLM_ops** (Vimal Singh, Piyush, [other members])
+**Team LLM_ops**
 
 | Round | Task | Best public Macro F1 | Public rank | Final rank |
 |-------|------|----------------------|-------------|------------|

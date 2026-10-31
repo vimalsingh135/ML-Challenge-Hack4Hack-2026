@@ -66,3 +66,8 @@ Large artifacts (`*.npy`, `*.npz`, `*.pkl`, `work/`, `cache/`) are excluded. Put
 - Per-cadence normalisation was critical for transferring across telescopes
 - Macro F1 means rare classes need explicit attentioning across telescopes
 - Macro F1 means rare classes need explicit attention
+<img width="1600" height="899" alt="WhatsApp Image 2026-10-31 at 10 48 10 PM" src="https://github.com/user-attachments/assets/50976b5b-d851-40fe-8f2f-d4cc328834a2" />
+<img width="1600" height="895" alt="WhatsApp Image 2026-10-28 at 1 40 37 AM" src="https://github.com/user-attachments/assets/28e7e832-f220-4727-9e26-4b2f9347a9f6" />
+<img width="1600" height="839" alt="WhatsApp Image 2026-10-28 at 1 40 55 AM" src="https://github.com/user-attachments/assets/cf2551c9-8d60-4000-b0b4-46c063327077" />
+
+

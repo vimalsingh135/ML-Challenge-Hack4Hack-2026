@@ -6,8 +6,8 @@ Solutions to both rounds of the Hack4Hack 2026 ML Challenge, two astronomy class
 
 | Round | Task | Best public Macro F1 | Public rank | Final rank |
 |-------|------|----------------------|-------------|------------|
-| 1 (24 h) | Planet Hunters: classify TESS-like star light curves | 0.7850 | 2nd | [add] |
-| 2 (finals, 1 day) | Signal Hunters: classify SETI ON/OFF radio cadences | 0.9312 | 3rd | [add] |
+| 1 (24 h) | Planet Hunters: classify TESS-like star light curves | 0.7850 | 2nd | 2nd |
+| 2 (finals, 1 day) | Signal Hunters: classify SETI ON/OFF radio cadences | 0.9312 | 3rd | 3rd |
 
 Round 1 qualified the team for the Round 2 finals.
 
